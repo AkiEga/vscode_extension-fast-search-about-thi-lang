@@ -37,6 +37,7 @@
 	},
 	"dependencies": {
 		"@types/opener": "^1.4.0",
-		"opener": "^1.5.1"
+		"opener": "^1.5.1",
+		"querystringify": "2.0.0"
 	}
 }
